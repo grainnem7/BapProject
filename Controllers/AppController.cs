@@ -1,14 +1,10 @@
 ﻿using BapProject.Repositories;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace BapProject.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/app")]
     [ApiController]
     public class AppController : ControllerBase
     {
@@ -21,16 +17,11 @@ namespace BapProject.Controllers
 
         [HttpGet]
         [Route("apps")]
-        public IActionResult GetBapApps()
+        public IActionResult Index()
         {
             try
             {
                 var messages = appRepository.GetBapApps();
-                if (messages == null)
-                {
-                    return NotFound();
-                }
-
                 return Ok(messages);
             }
             catch (Exception)
@@ -38,5 +29,23 @@ namespace BapProject.Controllers
                 return BadRequest();
             }
         }
+        [HttpGet("{appId}")]
+        public IActionResult indexByAppId(int appId)
+        {
+            try
+            {
+                ViewModels.AppViewModel app = appRepository.GetBapApp(appId);
+                if (app == null)
+                {
+                    return NotFound();
+                }
+                return Ok(app);
+            }
+            catch (Exception)
+            {
+                return BadRequest();
+            }
+        }
+
     }
 }

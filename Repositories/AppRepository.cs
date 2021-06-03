@@ -1,53 +1,62 @@
 ﻿using BapProject.Models;
 using BapProject.ViewModels;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace BapProject.Repositories
 {
-    public class AppRepository : IAppRepository
+   public class AppRepository : IAppRepository
     {
-
-        private bapAppsContext db;
-
+        private readonly bapAppsContext db;
         public AppRepository(bapAppsContext db)
         {
             this.db = db;
         }
-
-        public List<AppViewModel> GetBapApps()
+        public AppViewModel GetBapApp(int appId)
         {
             if (db != null)
             {
-                List<AppViewModel> apps = new List<AppViewModel>();
-
-                var result = from o in db.BapApps
-                             orderby o.Name ascending, o.Rating ascending
-                             select o;
-
-                foreach (var r in result)
+                BapApp app = (from dbApp in db.BapApps
+                              orderby dbApp.AppId == appId
+                              select dbApp).FirstOrDefault();
+             
+             if(app == null)
                 {
-                    AppViewModel app= new AppViewModel();
-                    app.AppId = r.AppId;
-                    app.Name = r.Name;
-                    app.Rating = r.Rating;
-                    app.NoofpeopleRated = r.NoofpeopleRated;
-                    app.Category = r.Category;
-                    app.Date = r.Date;
-                    app.Price = r.Price;
-
-
-                    apps.Add(app);
+                    return null;
                 }
-
-                return apps;
-
- 
-    }
+                return new AppViewModel
+                {
+                    AppId = app.AppId,
+                    Name = app.Name,
+                    Rating = app.Rating,
+                    NoofpeopleRated = app.NoofpeopleRated,
+                    Category = app.Category,
+                    Date = app.Date,
+                    Price = app.Price
+                };
+            }
 
             return null;
+        }
+        public IEnumerable<AppViewModel> GetBapApps()
+        {
+            if (db != null)
+            {
+                IQueryable<AppViewModel> result = from o in db.BapApps
+                                                  orderby o.Name ascending, o.Rating ascending
+                                                  select new AppViewModel
+                                                  {
+                                                      AppId = o.AppId,
+                                                      Name = o.Name,
+                                                      Rating = o.Rating,
+                                                      NoofpeopleRated = o.NoofpeopleRated,
+                                                      Date = o.Date,
+                                                      Price = o.Price
+                                                  };
+                return result;
+            
+            }
+            return Enumerable.Empty<AppViewModel>();
         }
     }
 }

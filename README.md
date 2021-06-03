@@ -3,7 +3,7 @@
 ### Technologies Used
 ####   :rocket: HTML, CSS, JavaScript, Chartjs, Bootstrap, C#, Sqlite3
  - $ :  `https://github.com/grainnem7/BapProject.git`
- - $ :  `https://localhost:44329/api/app/apps`
+ - $ :  `https://localhost:44329/api/app/1`
 
 :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:
 #### How to Use 
