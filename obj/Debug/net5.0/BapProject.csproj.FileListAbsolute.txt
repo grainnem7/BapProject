@@ -1,0 +1,114 @@
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\appsettings.json
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\BapProject.exe
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\BapProject.deps.json
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\BapProject.runtimeconfig.json
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\BapProject.runtimeconfig.dev.json
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\BapProject.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\ref\BapProject.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\BapProject.pdb
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.csprojAssemblyReference.cache
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.AssemblyInfoInputs.cache
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.AssemblyInfo.cs
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\staticwebassets\BapProject.StaticWebAssets.Manifest.cache
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\staticwebassets\BapProject.StaticWebAssets.xml
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\scopedcss\bundle\BapProject.styles.css
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.RazorTargetAssemblyInfo.cache
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.csproj.CopyComplete
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\ref\BapProject.dll
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.pdb
+C:\Users\kelvi\Desktop\Final Project\BapProject\obj\Debug\net5.0\BapProject.genruntimeconfig.cache
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\appsettings.json
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\BapProject.exe
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\BapProject.deps.json
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\BapProject.runtimeconfig.json
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\BapProject.runtimeconfig.dev.json
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\BapProject.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\ref\BapProject.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\BapProject.pdb
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\bap\BapProject\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.csprojAssemblyReference.cache
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.AssemblyInfoInputs.cache
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.AssemblyInfo.cs
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\staticwebassets\BapProject.StaticWebAssets.Manifest.cache
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\staticwebassets\BapProject.StaticWebAssets.xml
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\scopedcss\bundle\BapProject.styles.css
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.RazorTargetAssemblyInfo.cache
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.csproj.CopyComplete
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.dll
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\ref\BapProject.dll
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.pdb
+C:\Users\kelvi\Desktop\bap\BapProject\obj\Debug\net5.0\BapProject.genruntimeconfig.cache
