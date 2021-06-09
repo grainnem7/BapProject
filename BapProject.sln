@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31229.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BapProject", "BapProject.csproj", "{0E179E11-3B26-409D-AD73-89FEDD45650E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BapProject", "BapAPI\BapProject.csproj", "{AA669DA2-9C58-4890-96FE-D454966B2186}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BapAPIConsume", "BapAPIConsume\BapAPIConsume.csproj", "{2EA6C122-FA79-4CF0-B0ED-966C7DC9AF79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0E179E11-3B26-409D-AD73-89FEDD45650E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E179E11-3B26-409D-AD73-89FEDD45650E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E179E11-3B26-409D-AD73-89FEDD45650E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E179E11-3B26-409D-AD73-89FEDD45650E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA669DA2-9C58-4890-96FE-D454966B2186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA669DA2-9C58-4890-96FE-D454966B2186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA669DA2-9C58-4890-96FE-D454966B2186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA669DA2-9C58-4890-96FE-D454966B2186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA6C122-FA79-4CF0-B0ED-966C7DC9AF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA6C122-FA79-4CF0-B0ED-966C7DC9AF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA6C122-FA79-4CF0-B0ED-966C7DC9AF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA6C122-FA79-4CF0-B0ED-966C7DC9AF79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -33,7 +33,6 @@
 
         let xhttp = new XMLHttpRequest();
         xhttp.open("GET", `https://localhost:44329/api/app`, true);
-        console.log("xhttp data: ", xhttp);
         xhttp.send();
         xhttp.onreadystatechange = function () {
             let tbody = document.getElementById("apiTable").querySelector("tbody");
@@ -43,7 +42,6 @@
                 let jsonData = JSON.parse(this.responseText);
 
                 jsonData.forEach((data, index) => {
-                    console.log("json data: ", data.name, index);
                     tableContent += `<tr>
                     <td>${data.appId}</td>
                     <td>${data.rating}</td>
