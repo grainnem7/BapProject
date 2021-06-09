@@ -16,7 +16,7 @@ namespace BapProject.Controllers
         }
 
         [HttpGet]
-        [Route("apps")]
+        //[Route("apps")]
         public IActionResult Index()
         {
             try
