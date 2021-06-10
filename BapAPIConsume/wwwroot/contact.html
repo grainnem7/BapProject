@@ -5,16 +5,21 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>BAP | Contact</title>
+    <!-- CSS Link -->
+    <link rel="stylesheet" href="contact.css" type='text/css'>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation-prototype.min.css">
     <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
-    <!-- optional CDN for Foundation Icons ^^ -->
+
+    <!-- optional CDN for Foundation Icons -->
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css' rel='stylesheet' type='text/css'>
 </head>
 <body>
     <!-- Start Top Bar -->
     <div class="top-bar">
-        <div class="top-bar-right">
+        <div class="top-bar-left">
             <ul class="menu">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="data.html">Data</a></li>
@@ -28,7 +33,43 @@
     <article class="grid-container">
         <div class="grid-x align-center">
             <div class="cell small-12">
-                <h1>contact js</h1>
+
+                <section class="contact-us-section">
+                    <div class="row medium-unstack">
+                        <div class="columns contact-us-section-left">
+                            <h1 class="contact-us-header">Get In Touch</h1>
+                            <div class="responsive-embed">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d73968.58874382272!2d-5.996843153031351!3d54.594859685872635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4860fffdd7d08a3b%3A0x2e57162cefc7c531!2sBelfast!5e0!3m2!1sen!2suk!4v1623357454337!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            </div>
+
+                            <ul class="contact-us-list">
+                                <li class="address">11 Queens Rd, Belfast BT3 9AD, NI</li>
+                                <li class="email"><a href="mailto:">customerservice@bapteam1.com</a></li>
+                                <li class="phone">
+                                    (+44) 020 3608 2656
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="columns contact-us-section-right">
+                            <h1 class="contact-us-header">Mail Us</h1>
+                            <form class="contact-us-form">
+                                <input type="text" placeholder="Full name">
+                                <input type="email" placeholder="Email">
+                                <textarea name="message" id="" rows="12" placeholder="Type your message here"></textarea>
+                                <div class="contact-us-form-actions">
+                                    <input type="submit" class="button" value="Send it" />
+                                    <div>
+                                        <label for="FileUpload" class="button contact-us-file-button">Attach Files</label>
+                                        <input type="file" id="FileUpload" class="show-for-sr">
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </section>
+
+
+
             </div>
         </div>
     </article>
@@ -37,6 +78,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/js/foundation.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.js"></script>
 <script>
-      $(document).foundation();
+    $(document).foundation();
 </script>
 </html>
