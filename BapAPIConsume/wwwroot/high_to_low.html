@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BAP | Contact</title>
+    <title>BAP | High to Low</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation-prototype.min.css">
@@ -14,11 +14,22 @@
 <body>
     <!-- Start Top Bar -->
     <div class="top-bar">
-        <div class="top-bar-right">
-            <ul class="menu">
+        <div class="top-bar-left">
+            <ul class="menu vertical medium-horizontal medium-text-center" data-responsive-menu="drilldown medium-dropdown">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="data.html">Data</a></li>
                 <li><a href="chart.html">Chart</a></li>
+
+                <!-- Dropdown menu -->
+                <li class="has-submenu">
+                    <a href="#">Filter Data</a>
+                    <ul class="submenu menu vertical" data-submenu>
+                        <li><a href="high_to_low.html">High to Low</a></li>
+                        <li><a href="low_to_high.html">Low to High</a></li>
+                        <li><a href="top_rated.html">Top Rated</a></li>
+                        <li><a href="most_rated.html">Most Rated</a></li>
+                    </ul>
+                </li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
@@ -28,7 +39,8 @@
     <article class="grid-container">
         <div class="grid-x align-center">
             <div class="cell small-12">
-                <h1>contact js</h1>
+
+                <h1>high to low js</h1>
             </div>
         </div>
     </article>
