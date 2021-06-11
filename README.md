@@ -1,7 +1,7 @@
 
 # Belfast App Productions
 ### Technologies Used
-####  :rocket: HTML, CSS, Foundation 6, JavaScript, Chart.js, C#, Sqlite3
+####  :rocket: HTML, CSS, Foundation 6, JavaScript, Google chart, C#, Sqlite3
 #### How to Use 
  - Copy  : `https://github.com/grainnem7/BapProject.git`
  - Unzip   : `BapProject`
