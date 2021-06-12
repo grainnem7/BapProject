@@ -19,6 +19,8 @@
 <br/>
 ![image 05](https://github.com/grainnem7/BapProject/blob/master/images/bap_05.png?raw=true)
 <br/>
+![image 05a](https://github.com/grainnem7/BapProject/blob/master/images/bap_05a.png?raw=true)
+<br/>
 ![image 06](https://github.com/grainnem7/BapProject/blob/master/images/bap_06.png?raw=true)
 <br/>
 ![image 07](https://github.com/grainnem7/BapProject/blob/master/images/bap_07.png?raw=true)
