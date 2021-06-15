@@ -10,30 +10,73 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.3/motion-ui.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.4.3/css/foundation-prototype.min.css">
     <link href='https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
-
-    <!-- optional CDN for Foundation Icons -->
-
+    <!-- optional CDN for Icons -->
+    <script src="https://kit.fontawesome.com/da8e65c93c.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <!-- Start Top Bar -->
     <div class="top-bar">
         <div class="top-bar-right">
             <ul class="menu vertical medium-horizontal medium-text-center" data-responsive-menu="drilldown medium-dropdown">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="data.html">Data</a></li>
-                <li><a href="chart.html">Chart</a></li>
+                <li>
+                    <a href="index.html">
+                        <i class="fas fa-home fa-2x"></i>
+                        <label>Home</label>
+                    </a>
+                </li>
+                <li>
+                    <a href="data.html">
+                        <i class="fas fa-table fa-2x"></i>
+                        <label>Data</label>
+                    </a>
+                </li>
+                <li>
+                    <a href="chart.html">
+                        <i class="fas fa-chart-pie fa-2x"></i>
+                        <label>Chart</label>
+                    </a>
+                </li>
 
                 <!-- Dropdown menu -->
                 <li class="has-submenu">
-                    <a href="#">Filter Data</a>
-                    <ul class="submenu menu vertical" data-submenu>
-                        <li><a href="high_to_low.html">High to Low</a></li>
-                        <li><a href="low_to_high.html">Low to High</a></li>
-                        <li><a href="top_rated.html">Top Rated</a></li>
-                        <li><a href="most_rated.html">Most Rated</a></li>
+                    <a href="#">
+                        <i class="fas fa-chart-area fa-2x"></i>
+                        <label>More Data</label>
+                    </a>
+                    <ul class="submenu menu vertical"
+                        data-submenu>
+                        <li>
+                            <a href="high_to_low.html">
+                                <i class="fas fa-balance-scale-right"></i>
+                                High to Low
+                            </a>
+                        </li>
+                        <li>
+                            <a href="low_to_high.html">
+                                <i class="fas fa-balance-scale-left"></i>
+                                Low to High
+                            </a>
+                        </li>
+                        <li>
+                            <a href="top_rated.html">
+                                <i class="fas fa-chart-line"></i>
+                                Top Rated
+                            </a>
+                        </li>
+                        <li>
+                            <a href="most_rated.html">
+                                <i class="fas fa-rocket"></i>
+                                Most Rated
+                            </a>
+                        </li>
                     </ul>
                 </li>
-                <li><a href="contact.html">Contact</a></li>
+                <li>
+                    <a href="contact.html">
+                        <i class="fas fa-phone fa-2x"></i>
+                        <label> Contact</label>
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
